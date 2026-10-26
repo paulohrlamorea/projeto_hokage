@@ -1,0 +1,3 @@
+INFO: System initialized successfully
+WARNING: High CPU load detected on main thread
+ERROR: Failed to connect to telemetry database
