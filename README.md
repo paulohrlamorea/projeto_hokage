@@ -13,6 +13,3 @@ Repositório centralizado de scripts focados em automação de tarefas administr
  ├── 📊 hardware_diagnostics.ps1 # Script PowerShell para diagnóstico de hardware e sistema
  ├── 📊 software_updater.ps1     # Gestor automatizado de atualizações via Winget
  └── 🐍 data_pipeline_logs.py    # Pipeline em Python para processamento e limpeza de logs
-=======
-# projeto_hokage
->>>>>>> 5b002baf474377d3fc97e81ebd9fdabf894bff74
