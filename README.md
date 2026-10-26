@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚡ Projeto Hokage - Automação & Infraestrutura
 
 Repositório centralizado de scripts focados em automação de tarefas administrativas, diagnóstico de hardware, gestão de licenciamento e engenharia de dados.
