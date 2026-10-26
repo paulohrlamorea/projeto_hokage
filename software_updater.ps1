@@ -1,6 +1,6 @@
 # ==========================================================
 # Script: Software Updater & Package Manager (Winget)
-# Autor: Paulo H. / Projeto Hokage
+# Autor: Paulo H. Lamoréa / Projeto Hokage
 # ==========================================================
 Clear-Host
 Write-Host "========================================================" -ForegroundColor Cyan
